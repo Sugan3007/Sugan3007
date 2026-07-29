@@ -1,53 +1,38 @@
 <div align="center">
 
-<!-- HERO TITLE -->
-
-<h1>
-  <span style="color:#D4AF37;">SUGANTHA BALAN M</span>
-</h1>
-
-<h3>Full Stack Developer • UI/UX Designer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:0D0D0D&height=180&section=header&text=SUGANTHA%20BALAN%20M&fontSize=42&fontColor=D4AF37&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=16&descAlignY=62&descColor=E6E6E6" width="100%" alt="Header banner"/>
 
 <p>
-  Building powerful digital products with clean code, cinematic interfaces and thoughtful user experiences.
+  <em>Building powerful digital products with clean code, cinematic interfaces and thoughtful user experiences.</em>
 </p>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=24&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React.js+Developer;UI%2FUX+Designer;Hackathon+Winner;Building+Premium+Web+Experiences"
+  alt="Typing animation"
+/>
 
 <br>
 
-<!-- TYPING ANIMATION -->
-
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=25&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React.js+Developer;UI%2FUX+Designer;Hackathon+Winner;Building+Premium+Web+Experiences"
-alt="Typing animation"
-/>
-
-<br><br>
-
-<!-- SOCIAL BUTTONS -->
-
-<a href="[YOUR_PORTFOLIO_URL](https://sugan-portfolio.vercel.app/)">
-  <img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio">
+<a href="https://sugan-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio"/>
 </a>
-
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sugantha-balan-m-0630a9357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/sugantha-balan-m-0630a9357">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:suganthabalanm3007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email">
+  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/>
 </a>
-
 <a href="https://github.com/Sugan3007">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sugan3007&label=PROFILE+VIEWS&color=8B0000&style=for-the-badge" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Sugan3007&label=PROFILE+VIEWS&color=8B0000&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
 
 ## ⚔️ About Me
 
@@ -64,104 +49,121 @@ const suganthaBalan = {
     "Premium web experiences",
     "AI-powered applications",
     "Creative development",
-    "Hackathons"
+    "Hackathons",
   ],
-  currentMission:
-    "Transforming creative ideas into functional digital products"
+  currentMission: "Transforming creative ideas into functional digital products",
 };
 ```
 
-I am a final-year **B.Tech Information Technology student** with hands-on experience in full-stack development, UI/UX design and creative editing.
+I am a final-year **B.Tech Information Technology** student with hands-on experience in full-stack development, UI/UX design and creative editing. I enjoy combining strong development fundamentals with a design-first mindset to build responsive, visually engaging and practical applications.
 
-I enjoy combining strong development fundamentals with a design-first mindset to build responsive, visually engaging and practical applications.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* 🏆 Two-time hackathon first-place winner
-* 🎓 Pursuing B.Tech Information Technology
-* ⚛️ Building premium applications with React.js
-* 🎨 Designing intuitive interfaces with Figma
-* 🤖 Exploring artificial intelligence and optimization
-* 🚀 Interested in software development and product design roles
+🏆 &nbsp;Two-time hackathon first-place winner
+🎓 &nbsp;Pursuing B.Tech Information Technology
+⚛️ &nbsp;Building premium applications with React.js
 
----
+</td>
+<td width="50%" valign="top">
+
+🎨 &nbsp;Designing intuitive interfaces with Figma
+🤖 &nbsp;Exploring artificial intelligence and optimization
+🚀 &nbsp;Interested in software development and product design roles
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
 
 ## 🛠️ Technology Arsenal
 
-### Languages
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,python,html,css" alt="Programming languages">
-</p>
+**Languages**
 
-### Frontend Development
+<img src="https://skillicons.dev/icons?i=js,java,python,html,css&theme=dark" alt="Languages"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite" alt="Frontend technologies">
-</p>
+</td>
+<td valign="top" width="33%">
 
-<p>
-  React Router • Framer Motion • Responsive Web Design • Component Architecture
-</p>
+**Frontend**
 
-### Backend and Database
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="Frontend"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend technologies">
-</p>
+`React Router` `Framer Motion`
+`Responsive Design`
 
-<p>
-  RESTful APIs • Database Management • Authentication • Application Logic
-</p>
+</td>
+<td valign="top" width="34%">
 
-### Design and Creative Tools
+**Backend & Database**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design tools">
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend"/>
 
-<p>
-  UI Design • UX Design • Wireframing • Graphic Design • Logo Design  
-  Video Editing • Photo Editing • Motion Graphics • Visual Storytelling
-</p>
+`REST APIs` `Auth` `App Logic`
 
-### Development Tools
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Development tools">
-</p>
+**Design & Creative**
 
----
+<img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Design"/>
 
-# 🏆 Achievements
+`UI/UX` `Wireframing`
+`Motion Graphics`
+
+</td>
+<td valign="top" width="33%">
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools"/>
+
+</td>
+<td valign="top" width="34%">
+
+**Focus Areas**
+
+`Video Editing` `Photo Editing`
+`Visual Storytelling`
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
+
+## 🏆 Achievements
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🥇 APPATHON 2026
+### 🥇 APPATHON 2026 — First Place
+**SNS College of Technology**
 
-**First Place Winner**
-
-SNS College of Technology
-
-* Developed an innovative application
-* Recognized for UI/UX quality
-* Demonstrated strong technical execution
-* Received a ₹5,000 cash prize
+- Developed an innovative application
+- Recognized for UI/UX quality
+- Demonstrated strong technical execution
+- Received a ₹5,000 cash prize
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🥇 Techathon 2026
+### 🥇 Techathon 2026 — First Place
+**J.P. College of Engineering**
 
-**First Place Winner**
-
-J.P. College of Engineering
-
-* Presented an AI timetable system
-* Recognized for technical depth
-* Delivered a strong project presentation
-* Received a ₹3,000 cash prize
+- Presented an AI timetable system
+- Recognized for technical depth
+- Delivered a strong project presentation
+- Received a ₹3,000 cash prize
 
 </td>
 </tr>
@@ -169,316 +171,214 @@ J.P. College of Engineering
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Hackathon_Wins-2-D4AF37?style=for-the-badge&labelColor=8B0000">
-
-<img src="https://img.shields.io/badge/Major_Projects-6-D4AF37?style=for-the-badge&labelColor=111111">
-
-<img src="https://img.shields.io/badge/Value_Added_Courses-20%2B-D4AF37?style=for-the-badge&labelColor=8B0000">
+<img src="https://img.shields.io/badge/Hackathon_Wins-2-D4AF37?style=for-the-badge&labelColor=8B0000"/>
+<img src="https://img.shields.io/badge/Major_Projects-6-D4AF37?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/Value_Added_Courses-20%2B-D4AF37?style=for-the-badge&labelColor=8B0000"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## ⚔️ Elden Ring Fan Website
+### ⚔️ Elden Ring Fan Website
+Premium interactive website inspired by the Elden Ring universe.
 
-A premium interactive website inspired by the Elden Ring universe.
+- Immersive storytelling and lore
+- Maps, bosses, equipment and characters
+- Multi-page React Router architecture
+- Cinematic page transitions
 
-### Highlights
+`React.js` `React Router` `Framer Motion` `Vite`
 
-* Immersive storytelling and lore
-* Maps, bosses, equipment and characters
-* Multi-page React Router architecture
-* Cinematic page transitions
-* Responsive gaming-inspired interface
-
-### Technology
-
-`React.js` `React Router` `JavaScript`
-`CSS3` `Framer Motion` `Vite`
-
-<p>
-  <a href="https://elden-ring-fan.vercel.app/universe/elden-ring">
-    <img src="https://img.shields.io/badge/Live_Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37">
-  </a>
-  <a href="https://github.com/Sugan3007/elden-ring-fan">
-    <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=D4AF37">
-  </a>
-</p>
+<a href="https://elden-ring-fan.vercel.app/universe/elden-ring"><img src="https://img.shields.io/badge/Live_Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37"/></a>
+<a href="https://github.com/Sugan3007/elden-ring-fan"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🐒 Black Myth: Wukong
+### 🐒 Black Myth: Wukong
+Premium interactive encyclopedia inspired by Black Myth: Wukong.
 
-A premium interactive encyclopedia inspired by Black Myth: Wukong.
+- Equipment, bosses, maps and items
+- Structured interactive sections
+- Smooth animations and transitions
+- Single immersive browsing experience
 
-### Highlights
+`React.js` `React Router` `Framer Motion` `Vite`
 
-* Equipment, bosses, maps and items
-* Structured interactive sections
-* Smooth animations and transitions
-* Modern responsive interface
-* Single immersive browsing experience
-
-### Technology
-
-`React.js` `React Router` `JavaScript`
-`CSS3` `Framer Motion` `Vite`
-
-<p>
-  <a href="https://black-myth-wukong-o4al.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37">
-  </a>
-  <a href="https://github.com/Sugan3007/black-myth-wukong">
-    <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=D4AF37">
-  </a>
-</p>
+<a href="https://black-myth-wukong-o4al.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37"/></a>
+<a href="https://github.com/Sugan3007/black-myth-wukong"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-## 🪓 God of War Cinematic Website
+### 🪓 God of War Cinematic Website
+Cinematic fan website inspired by the God of War universe.
 
-A cinematic fan website inspired by the God of War universe.
+- Immersive game presentation
+- Premium dark-themed interface
+- Responsive React components
+- Consistent iconography and visual design
 
-### Highlights
+`React.js` `React Icons` `Vite`
 
-* Immersive game presentation
-* Character and game information
-* Premium dark-themed interface
-* Responsive React components
-* Consistent iconography and visual design
-
-### Technology
-
-`React.js` `JavaScript` `CSS3`
-`React Icons` `Vite`
-
-<p>
-  <a href="https://gow-cinematic.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37">
-  </a>
-  <a href="https://github.com/Sugan3007/gow-cinematic">
-    <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=D4AF37">
-  </a>
-</p>
+<a href="https://gow-cinematic.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37"/></a>
+<a href="https://github.com/Sugan3007/gow-cinematic"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 📈 Habit X
+### 📈 Habit X
+Full-stack habit-tracking application for building consistent routines.
 
-A full-stack habit-tracking application that helps users build consistent routines.
-
-### Highlights
-
-* Routine and habit creation
-* Daily progress logging
-* Streak tracking
-* Progress visualization
-* Daily reminder logic
-* Distraction-free user experience
-
-### Technology
+- Routine and habit creation
+- Daily progress logging & streak tracking
+- Progress visualization
+- Distraction-free user experience
 
 `React.js` `Node.js` `MongoDB`
-`JavaScript` `Responsive Design`
 
-<p>
-  <a href="https://habit-x-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37">
-  </a>
-  <a href="YOUR_HABIT_X_REPOSITORY_URL">
-    <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=D4AF37">
-  </a>
-</p>
+<a href="https://habit-x-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=D4AF37"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-## 🤖 AI Timetable Management System
+### 🤖 AI Timetable Management System
+AI-powered academic timetable optimization system.
 
-An AI-powered academic timetable optimization system.
+- Automated timetable generation
+- Faculty conflict prevention
+- Room and time-slot allocation
+- Constraint-based scheduling
 
-### Highlights
+`Python` `AI` `Optimization`
 
-* Automated timetable generation
-* Faculty conflict prevention
-* Room and time-slot allocation
-* Constraint-based scheduling
-* Academic workload management
-* Conflict-free schedule output
-
-### Technology
-
-`Python` `Artificial Intelligence`
-`Optimization` `Constraint Management`
-
-<p>
-  <a href="YOUR_TIMETABLE_REPOSITORY_URL">
-    <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=D4AF37">
-  </a>
-</p>
+<a href="#"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 📚 Library Management System
+### 📚 Library Management System
+Mobile application to simplify library administration and circulation.
 
-A mobile application created to simplify library administration and circulation.
+- Book inventory management
+- Member record management
+- Issue and return tracking
+- Due-date notifications
 
-### Highlights
+`Mobile Development` `UI/UX`
 
-* Book inventory management
-* Member record management
-* Issue and return tracking
-* Due-date notifications
-* Administrative workflows
-* Circulation monitoring
-
-### Technology
-
-`Mobile App Development`
-`Notification Management` `UI/UX`
-
-<p>
-  <a href="YOUR_LIBRARY_REPOSITORY_URL">
-    <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=D4AF37">
-  </a>
-</p>
+<a href="#"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
 
-# 💼 Experience and Training
+## 💼 Experience & Training
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 📊 Data Analytics Intern
-
+### 📊 Data Analytics Intern
 **Top Tech Developers, Chennai**
 
-* Worked with real-world data workflows
-* Analyzed structured datasets
-* Converted findings into actionable insights
-* Collaborated with a team
-* Prepared reports based on analysis
+- Worked with real-world data workflows
+- Analyzed structured datasets
+- Converted findings into actionable insights
+- Prepared reports based on analysis
 
 </td>
-
 <td width="50%" valign="top">
 
-## 💻 MERN Stack Training
-
+### 💻 MERN Stack Training
 **Campus Connection**
 
-* Completed intensive full-stack training
-* Worked with React.js and Vite
-* Learned front-end and back-end integration
-* Built sample full-stack applications
-* Practised modern deployment workflows
+- Completed intensive full-stack training
+- Worked with React.js and Vite
+- Learned front-end and back-end integration
+- Practised modern deployment workflows
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
 
-# 🎓 Education
+## 🎓 Education
 
-## B.Tech — Information Technology
+**B.Tech — Information Technology**
+J.P. College of Engineering, Tenkasi &nbsp;|&nbsp; `2023 – 2027 (Expected)`
 
-**J.P. College of Engineering, Tenkasi**
+<details>
+<summary><b>Relevant Coursework</b></summary>
+<br>
 
-`2023 – 2027 Expected`
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Web Technologies
+- Artificial Intelligence
 
-### Relevant Coursework
+</details>
 
-* Data Structures and Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Software Engineering
-* Web Technologies
-* Artificial Intelligence
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
 
----
-
-# 📜 Certifications and Training
-
-* Hands-on React JS Training — Campus Connection
-* Android App Development — Vinsup Academy
-* Android App Development — CADD Expert
-* UI/UX Design MasterClass — NoviTech
-* Zoho Creator Student Program — Zoho
-* Figma MasterClass — NoviTech
-
----
-
-# 📊 GitHub Analytics
+## 📜 Certifications & Training
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=Sugan3007&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=8B0000&text_color=E6E6E6&bg_color=0D0D0D"
-alt="GitHub statistics"
-/>
+<img src="https://img.shields.io/badge/React_JS_Training-Campus_Connection-111111?style=for-the-badge&labelColor=8B0000&logo=react&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Android_Dev-Vinsup_Academy-111111?style=for-the-badge&labelColor=8B0000&logo=android&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Android_Dev-CADD_Expert-111111?style=for-the-badge&labelColor=8B0000&logo=android&logoColor=D4AF37"/>
+<br>
+<img src="https://img.shields.io/badge/UI/UX_MasterClass-NoviTech-111111?style=for-the-badge&labelColor=8B0000&logo=figma&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Zoho_Creator-Student_Program-111111?style=for-the-badge&labelColor=8B0000&logo=zoho&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Figma_MasterClass-NoviTech-111111?style=for-the-badge&labelColor=8B0000&logo=figma&logoColor=D4AF37"/>
 
-<img
-width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Sugan3007&hide_border=true&background=0D0D0D&stroke=8B0000&ring=D4AF37&fire=8B0000&currStreakLabel=D4AF37&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999"
-alt="GitHub streak"
-/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sugan3007&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=8B0000&text_color=E6E6E6&bg_color=0D0D0D" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sugan3007&hide_border=true&background=0D0D0D&stroke=8B0000&ring=D4AF37&fire=8B0000&currStreakLabel=D4AF37&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub streak"/>
 
 <br>
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugan3007&layout=compact&hide_border=true&title_color=D4AF37&text_color=E6E6E6&bg_color=0D0D0D"
-alt="Top languages"
-/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugan3007&layout=compact&hide_border=true&title_color=D4AF37&text_color=E6E6E6&bg_color=0D0D0D" alt="Top languages"/>
 
 </div>
 
----
-
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Sugan3007&bg_color=0D0D0D&color=D4AF37&line=8B0000&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-alt="Contribution graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sugan3007&bg_color=0D0D0D&color=D4AF37&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ```text
 ⚛️  Building advanced React applications
@@ -488,51 +388,48 @@ alt="Contribution graph"
 🚀  Shipping practical and polished products
 ```
 
----
-
-# 🌟 Professional Strengths
-
-* Fast learner
-* Strong visual design sense
-* Comfortable working across the full stack
-* Effective under hackathon time pressure
-* Able to convert concepts into working products
-* Focused on responsive and accessible interfaces
-* Strong interest in product development
-
----
-
-# 💬 Languages
-
-* English
-* Tamil
-
----
-
-# 🤝 Connect With Me
+## 🌟 Professional Strengths
 
 <div align="center">
 
-### Let us build something meaningful together.
+<img src="https://img.shields.io/badge/Fast_Learner-D4AF37?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Strong_Visual_Design_Sense-D4AF37?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Full_Stack_Comfort-D4AF37?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Hackathon_Ready-D4AF37?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Concept_to_Product-D4AF37?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Accessible_UI_Focus-D4AF37?style=flat-square&labelColor=0D0D0D"/>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=D4AF37">
+</div>
+
+## 💬 Languages
+
+`English` &nbsp;•&nbsp; `Tamil`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0D0D0D&height=3&width=100%" width="100%"/>
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+### Let's build something meaningful together.
+
+<a href="https://www.linkedin.com/in/sugantha-balan-m-0630a9357">
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
 </a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=D4AF37">
+<a href="https://sugan-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=D4AF37"/>
 </a>
-
 <a href="mailto:suganthabalanm3007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=D4AF37">
+  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
 </a>
-
 <a href="https://github.com/Sugan3007">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=D4AF37">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=D4AF37"/>
 </a>
 
 <br><br>
 
-### Dark Code • Golden Ideas • Powerful Experiences
+<sub>Dark Code • Golden Ideas • Powerful Experiences</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:0D0D0D&height=100&section=footer" width="100%"/>
