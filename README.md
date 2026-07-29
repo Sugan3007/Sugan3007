@@ -356,17 +356,7 @@ J.P. College of Engineering, Tenkasi &nbsp;|&nbsp; `2023 – 2027 (Expected)`
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:1976D2&height=3&width=100%" width="100%"/>
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sugan3007&show_icons=true&hide_border=true&title_color=1976D2&icon_color=FFD700&text_color=333333&bg_color=FFFFFF" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sugan3007&hide_border=true&background=FFFFFF&stroke=1976D2&ring=FFD700&fire=1976D2&currStreakLabel=1976D2&sideLabels=333333&currStreakNum=0D47A1&sideNums=0D47A1&dates=666666" alt="GitHub streak"/>
-
-<br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugan3007&layout=compact&hide_border=true&title_color=1976D2&text_color=333333&bg_color=FFFFFF" alt="Top languages"/>
-
-</div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sugan3007&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=8B0000&text_color=E6E6E6&bg_color=0D0D0D" alt="GitHub statistics"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sugan3007&hide_border=true&background=0D0D0D&stroke=8B0000&ring=D4AF37&fire=8B0000&currStreakLabel=D4AF37&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub streak"/> <br> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugan3007&layout=compact&hide_border=true&title_color=D4AF37&text_color=E6E6E6&bg_color=0D0D0D" alt="Top languages"/> </div>
 
 ## 📈 Contribution Activity
 
